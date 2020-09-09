@@ -8,3 +8,5 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003991623079)](https://www.facebook.com/profile.php?id=100003991623079) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/98seung_9/)](https://www.instagram.com/98seung_9/)
 </div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kang9366&theme=buefy&show_icons=true)
