@@ -13,4 +13,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003991623079)](https://www.facebook.com/profile.php?id=100003991623079) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/98seung_9/)](https://www.instagram.com/98seung_9/)
 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kang9366)](https://solved.ac/kang9366)
+
 </div>
