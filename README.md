@@ -12,6 +12,7 @@
 **************************
 
 ## Language what I've studied
+</div>
 #### C
 #### Java
 #### HTML, CSS
@@ -19,7 +20,9 @@
 #### R
 #### Kotlin
 #### Python
+**************************
 
+<div>
 ## 🤝🏻 Contact way
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hallymer.github.io/)](https://hallymer.github.io/)
