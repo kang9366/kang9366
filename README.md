@@ -13,13 +13,13 @@
 
 ## Language what I've studied
 
-#### C
-#### Java
-#### HTML, CSS
-#### Java Script
-#### R
-#### Kotlin
-#### Python
+#### -C
+#### -Java
+#### -HTML, CSS
+#### -Java Script
+#### -R
+#### -Kotlin
+#### -Python
 
 **************************
 
