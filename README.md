@@ -4,12 +4,12 @@
  
  **************************
  
-## 🛠 Tech Stack
+## Tech Stack
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 **************************
 
-## 🤝🏻 Contact
+##🏻 Contact
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hallymer.github.io/)](https://kang9366.github.io//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang93660817@gmail.com)](mailto:kang93660817@gmail.com)
