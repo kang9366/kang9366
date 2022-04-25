@@ -4,7 +4,7 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366)](https://github.com/kang9366/github-readme-stats)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hallymer.github.io/)](https://velog.io/@kang9366)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang93660817@gmail.com)](mailto:kang93660817@gmail.com)
