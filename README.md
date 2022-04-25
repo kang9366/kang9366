@@ -4,7 +4,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&hide=html&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
   
-  ### 🐣 Seon Dal 🐥 
+### ⚽️
   
   ---
   
