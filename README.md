@@ -12,7 +12,7 @@
  <a href="https://solved.ac/kang9366"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kang9366"/></a>
 
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://hallymer.github.io/)](https://velog.io/@kang9366)
+ <a href="https://velog.io/@kang9366"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang93660817@gmail.com)](mailto:kang93660817@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/98seung_9/)](https://www.instagram.com/98seung_9/)
 
