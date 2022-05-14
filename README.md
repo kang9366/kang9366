@@ -1,6 +1,6 @@
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 
-<div align="center">
+<div align="center"> 
   
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&hide=html,Jupyter Notebook&exclude_repo=Computer-Science-Engineering&langs_count=6"/>
   
