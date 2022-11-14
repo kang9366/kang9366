@@ -1,6 +1,7 @@
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&hide=html&exclude_repo=Data-Analysis,Cifar10-Image-Classification&langs_count=6"/>
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&hide=html&exclude_repo=Computer-Science-Engineering,Data-Analysis&langs_count=6"/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang9366)](https://github.com/kang9366/github-readme-stats)
   
@@ -12,11 +13,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang93660817@gmail.com)](mailto:kang93660817@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/98seung_9/)](https://www.instagram.com/98seung_9/)
    <br>
-   <br>
+  ---
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-</div>
+ </div>
