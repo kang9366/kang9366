@@ -1,6 +1,5 @@
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 <div align="center">
-  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&hide=html&exclude_repo=Android-Project,Deep-Learning-Study,Data-Analysis&langs_count=7"/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang9366)](https://github.com/kang9366/github-readme-stats)
@@ -26,4 +25,11 @@
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+</div>
+
+ ---
+ 
+<div align="center">
+
+[![My trophy](https://github-profile-trophy.vercel.app/?username=kang9366&theme=darkhub&column=5&margin-h=20)](https://github.com/kang9366)
 </div>
