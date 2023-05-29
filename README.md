@@ -27,9 +27,9 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 </div>
 
- ---
+<!--  ---
  
 <div align="center">
 
 [![My trophy](https://github-profile-trophy.vercel.app/?username=kang9366&theme=darkhub&column=5&margin-h=20)](https://github.com/kang9366)
-</div>
+</div> -->
