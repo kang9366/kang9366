@@ -1,6 +1,6 @@
 <!-- https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC#%EC%99%84%EC%84%B1 -->
 <div align="center">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&hide=html&exclude_repo=Android-Project,Deep-Learning-Study,Data-Analysis&langs_count=7"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kang9366&hide=html&exclude_repo=kang9366.github.io,Android-Project,Deep-Learning-Study,Data-Analysis&langs_count=7"/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang9366)](https://github.com/kang9366/github-readme-stats)
   
