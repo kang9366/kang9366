@@ -13,6 +13,7 @@
 <a href="https://velog.io/@kang9366"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kang93660817@gmail.com)](mailto:kang93660817@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/98seung_9/)](https://www.instagram.com/98seung_9/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/승구-강-802269230/)](https://www.linkedin.com/in/승구-강-802269230/)
 <br>
   
  ---
