@@ -42,8 +42,6 @@
 * 한국 대학생 IT 경영학회 28기 안드로이드 학회원 (2023.08~2023.11)
 * 네이버 부스트코스 코칭스터디: Data Science 2023 리드 부스터 (2023.10~2023.11)
 
- ---
-
 ### Projects
 * [강아지 안구 질병 식별 모델 (pretrained-model & ensemble)](https://github.com/kang9366/PetKeeper-DL)
 * [국적별 영어 발음 음성 분류 프로젝트 (CNN)](https://github.com/kang9366/English-Pronunciation-Classification)
