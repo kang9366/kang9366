@@ -31,7 +31,7 @@
 </div>
 
  ---
-## About Me
+### About Me
 * I'm majoring Computer Science in SeoulTech University
 * I'm interested in Android development, Data Science and DeepLearning
 
