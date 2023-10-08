@@ -31,6 +31,10 @@
 </div>
 
  ---
+## About Me
+* I'm majoring Computer Science in SeoulTech University
+* I'm interested in Android development, Data Science and DeepLearning
+
 ### Activities
 * 서울과학기술대학교 컴퓨터공학과 학술동아리 '다락방' (2022.03~2022.06)
 * GDSC SeoulTech 2기 안드로이드 멤버 (2022.08~2023.06)
