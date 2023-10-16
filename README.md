@@ -44,7 +44,7 @@
 
 ### Projects
 * [강아지 안구 질병 식별 모델 (transfer-learning & ensemble)](https://github.com/kang9366/PetKeeper-DL)
-* [국적별 영어 발음 음성 분류 프로젝트 (CNN)](https://github.com/kang9366/English-Pronunciation-Classification)
+* [국적별 영어 발음 음성 분류 (CNN)](https://github.com/kang9366/English-Pronunciation-Classification)
 * [건설 현장 헬멧 착용 여부 탐지 (yolov5)](https://github.com/kang9366/DL-Study/blob/main/Helmet_detection_train.ipynb)
 * [꽃게의 부위별 길이 데이터를 이용한 나이 예측 (Regression)](https://github.com/kang9366/Data-Analysis/blob/main/%5BProject%5D%20Crab%20age%20predict.ipynb)
 * [GreenDev](https://github.com/kang9366/GreenDev_Android) - 환경 캠페인 참여 인증 및 생성 앱 서비스 (SK DEVOCEAN YOUNG 2기 팀 프로젝트)
