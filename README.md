@@ -33,7 +33,7 @@
  ---
 ### About Me
 * I'm majoring Computer Science in SeoulTech University
-* I'm interested in Android development, Data Science and DeepLearning
+* I'm interested in Android development
 
 ### Activities
 * 서울과학기술대학교 컴퓨터공학과 학술동아리 '다락방' (2022.03~2022.06)
@@ -45,9 +45,8 @@
 ### Projects
 * [강아지 안구 질병 식별 모델 (transfer-learning & ensemble)](https://github.com/kang9366/PetKeeper-DL)
 * [국적별 영어 발음 음성 분류 프로젝트 (CNN)](https://github.com/kang9366/English-Pronunciation-Classification)
-* [건설 현장 헬멧 착용 여부 탐지 모델 (yolov5)](https://github.com/kang9366/DL-Study/blob/main/Helmet_detection_train.ipynb)
+* [건설 현장 헬멧 착용 여부 탐지 (yolov5)](https://github.com/kang9366/DL-Study/blob/main/Helmet_detection_train.ipynb)
 * [꽃게의 부위별 길이 데이터를 이용한 나이 예측 (Regression)](https://github.com/kang9366/Data-Analysis/blob/main/%5BProject%5D%20Crab%20age%20predict.ipynb)
-* [StoPhone](https://github.com/kang9366/GoogleSolutionChallenge2023) - 스마트폰의 모션센서를 이용한 보행중 스마트폰 사용 방지 앱 (Google Solution Challenge 2022 출품작)
 * [GreenDev](https://github.com/kang9366/GreenDev_Android) - 환경 캠페인 참여 인증 및 생성 앱 서비스 (SK DEVOCEAN YOUNG 2기 팀 프로젝트)
 * [PetKeeper](https://github.com/kang9366/PetKeeper-Android) - 딥러닝을 활용한 반려견 질병 진단 및 관리 앱 서비스 (서울과학기술대학교 컴퓨터공학과 캡스톤 디자인 프로젝트)
 * [아이약](https://github.com/kang9366/HDmedi_Android) - 학부모와 선생님을 위한 자녀 ADHD 자가진단 앱 서비스 (HD메디 기업프로젝트 장려상)
