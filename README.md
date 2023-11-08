@@ -50,6 +50,6 @@
 * [꽃게의 부위별 길이 데이터를 이용한 나이 예측 (Regression)](https://github.com/kang9366/Data-Analysis/blob/main/%5BProject%5D%20Crab%20age%20predict.ipynb)
 * [GreenDev](https://github.com/kang9366/GreenDev_Android) - 환경 캠페인 참여 인증 및 생성 앱 서비스 (SK DEVOCEAN YOUNG 2기 팀 프로젝트)
 * [PetKeeper](https://github.com/kang9366/PetKeeper-Android) - 딥러닝을 활용한 반려견 질병 진단 및 관리 앱 서비스 (서울과학기술대학교 컴퓨터공학과 캡스톤 디자인 프로젝트)
-* [아이약](https://github.com/kang9366/HDmedi_Android) - 학부모와 선생님을 위한 자녀 ADHD 자가진단 앱 서비스 (HD메디 기업프로젝트 장려상)
+* [아이약](https://github.com/kang9366/HDmedi_Android) - 학부모와 선생님을 위한 자녀 ADHD 자가진단 앱 서비스
 * [ConnectDog](https://github.com/kang9366/ConnectDog-AOS) - Jetpack Compose와 Clean Architecture를 적용한 유기견 이동봉사 매칭 플랫폼 앱
-* [찍먹](https://github.com/kang9366/JjikMuk-AOS) - 딥러닝을 활용한 식단 분석 및 추천 앱 서비스 (KUSITMS 28기 해커톤 우수상)
+* [찍먹](https://github.com/kang9366/JjikMuk-AOS) - 딥러닝을 활용한 식단 분석 및 추천 앱 서비스
