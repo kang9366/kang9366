@@ -43,6 +43,7 @@
 * SK DEVOCEAN YOUNG 2기 (2023.03~2023.11)
 * 한국 대학생 IT 경영학회 28기 안드로이드 학회원 (2023.08~2023.12)
 * 네이버 부스트코스 코칭스터디: Data Science 2023 리드 부스터 (2023.10~2023.11)
+* KT 에이블 스쿨 5기 AI 개발자 트랙 (2024.02~2024.08)
 
 ### Projects
 * [강아지 안구 질병 식별 모델 (transfer-learning & ensemble)](https://github.com/kang9366/PetKeeper-DL)
